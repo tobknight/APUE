@@ -1,3 +1,7 @@
+/**
+ *Turn one one or more of the file status flags 
+ *
+ * */
 #include "apue.h"
 #include <fcntl.h>
 
